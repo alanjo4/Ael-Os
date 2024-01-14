@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"fat_structures.h": "c",
+		"string.h": "c"
+	}
+}
